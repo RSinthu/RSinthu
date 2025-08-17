@@ -73,7 +73,6 @@ I'm currently pursuing my BSc (Hons) in Artificial Intelligence at the Universit
 ## 🎯 Current Focus
 
 - 🧠 Exploring advanced machine learning algorithms and neural networks
-- 📈 Working on data visualization and analytics projects
 - 🚀 Building full-stack applications with AI integration
 - 📚 Continuously learning about emerging AI technologies
 
